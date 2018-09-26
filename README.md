@@ -5,6 +5,9 @@ that occur with an ATM. The ATM requires the user to enter a 4 digit PIN to gain
 
 
 ## Skills Required:
-* Test Driven Design 
+* Git / Bash
+* Test Driven Design
+* For Loops
+* While Loops
 * Class Design
 
